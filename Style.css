@@ -1,0 +1,25 @@
+.home_bar{
+    border: 1cm;
+    border-color: aqua;
+    font-style: bold;
+    font-size: xx-large;
+    font-family: fantasy;
+    background-color: aqua;
+}
+
+.h1{
+font-size: xx-large; 
+}
+
+.b{
+    font-size: xx-large;
+}
+
+.a{
+ font-size: xx-large;
+}
+
+.fridayevents{
+    justify-content: space-evenly;
+    font-size: x-large;
+}
